@@ -1,6 +1,3 @@
-Here’s a 350-word description for your GitHub repository:
-
----
 
 # Rock Paper Scissors Game
 
